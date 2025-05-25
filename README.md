@@ -1,1 +1,2 @@
-Vector emulator application that shows key posibilities of vector container
+#Vector Emulator
+Vector emulator Qt application that shows key posibilities of vector STL container
